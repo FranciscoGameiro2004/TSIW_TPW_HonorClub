@@ -1,0 +1,70 @@
+@import './base.css';
+
+@font-face {
+  font-family: K2D-ExtraBold;
+  src: url(../assets/fontes/K2D-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: K2D-Bold;
+  src: url(../assets/fontes/K2D-Bold.ttf);
+}
+
+@font-face {
+  font-family: K2D-SemiBold;
+  src: url(../assets/fontes/K2D-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Baloo2-Medium;
+  src: url(../assets/fontes/Baloo2-Medium.ttf);
+}
+
+@font-face {
+  font-family: Baloo2-Regular;
+  src: url(../assets/fontes/Baloo2-Regular.ttf);
+}
+
+@font-face {
+  font-family: Baloo2-Bold;
+  src: url(../assets/fontes/Baloo2-Bold.ttf);
+}
+
+@font-face {
+  font-family: Baloo2-SemiBold;
+  src: url(../assets/fontes/Baloo2-SemiBold.ttf);
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+/* @media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */

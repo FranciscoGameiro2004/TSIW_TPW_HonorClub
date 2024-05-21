@@ -2,7 +2,7 @@
     <div class="navbar">
     <router-link to="/home">
     <div class="logo">
-      <img src="../assets/small-elements/logo.png" alt="Logo" />
+      <img src="../assets/small-elements/logo.webp" alt="Logo" />
     </div>
   </router-link>
 
@@ -14,7 +14,7 @@
     </div>
 
     <div class="image-text" @click="logout">
-      <img src="../assets/small-elements/avatar.png" alt="Image"/>
+      <img src="../assets/small-elements/avatar.webp" alt="Image"/>
       <p class="loggedUser">Olá, {{ loggedUser }}!</p>
     </div>
   </div>
@@ -26,7 +26,7 @@
       </div>
 
       <div class="quiz-image">
-        <img src="../assets/elements/quiz-image.png" alt="Quiz Image" />
+        <img src="../assets/elements/quiz-image.webp" alt="Quiz Image" />
       </div>
 
       <div class="quiz-question">

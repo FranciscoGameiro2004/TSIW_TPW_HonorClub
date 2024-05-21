@@ -40,7 +40,7 @@ export default {
   <div class="navbar">
     <router-link to="/home">
       <div class="logo">
-        <img src="../assets/small-elements/logo.png" alt="Logo" />
+        <img src="../assets/small-elements/logo.webp" alt="Logo" />
       </div>
     </router-link>
 
@@ -52,7 +52,7 @@ export default {
     </div>
 
     <div class="nav-right" @click="logout">
-      <img src="../assets/small-elements/avatar.png" alt="Image"/>
+      <img src="../assets/small-elements/avatar.webp" alt="Image"/>
       <p class="loggedUser">Olá, {{ loggedUser }}!</p>
     </div>
   </div>

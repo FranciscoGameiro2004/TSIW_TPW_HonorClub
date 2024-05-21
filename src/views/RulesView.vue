@@ -20,7 +20,7 @@ import { RouterLink, RouterView } from 'vue-router'
     <div class="navbar">
   <router-link to="/home">
     <div class="logo">
-      <img src="../assets/small-elements/logo.png" alt="Logo" />
+      <img src="../assets/small-elements/logo.webp" alt="Logo" />
     </div>
   </router-link>
 
@@ -32,7 +32,7 @@ import { RouterLink, RouterView } from 'vue-router'
     </div>
 
     <div class="nav-right" @click="logout">
-      <img src="../assets/small-elements/avatar.png" alt="Image"/>
+      <img src="../assets/small-elements/avatar.webp" alt="Image"/>
       <p class="loggedUser">Olá, {{ loggedUser }}!</p>
     </div>
   </div>
@@ -46,7 +46,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 1 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras1.jpg" alt="news-image">
+              <img src="../assets/elements/regras1.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Try</h3>
@@ -55,7 +55,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 2 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras2.jpg" alt="news-image">
+              <img src="../assets/elements/regras2.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Conversão</h3>
@@ -64,7 +64,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 3 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras3.jpg" alt="news-image">
+              <img src="../assets/elements/regras3.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Penalidade</h3>
@@ -73,7 +73,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 4 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras4.jpg" alt="news-image">
+              <img src="../assets/elements/regras4.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Drop Goal</h3>
@@ -88,7 +88,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 1 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras5.jpg" alt="news-image">
+              <img src="../assets/elements/regras5.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Pilar</h3>
@@ -97,7 +97,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 2 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras6.jpg" alt="news-image">
+              <img src="../assets/elements/regras6.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Hooker</h3>
@@ -106,7 +106,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 3 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras7.jpg" alt="news-image">
+              <img src="../assets/elements/regras7.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Segunda Linha</h3>
@@ -115,7 +115,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 4 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras8.jpg" alt="news-image">
+              <img src="../assets/elements/regras8.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Asa</h3>
@@ -130,7 +130,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 1 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras9.jpg" alt="news-image">
+              <img src="../assets/elements/regras9.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Linha de meio campo</h3>
@@ -139,7 +139,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 2 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras10.jpg" alt="news-image">
+              <img src="../assets/elements/regras10.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Linha de 10 metros</h3>
@@ -148,7 +148,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 3 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras11.jpg" alt="news-image">
+              <img src="../assets/elements/regras11.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Linhas de 22 metros</h3>
@@ -157,7 +157,7 @@ import { RouterLink, RouterView } from 'vue-router'
           <!-- Box 4 -->
           <div class="rule-box">
             <div class="box-up">
-              <img src="../assets/elements/regras12.jpg" alt="news-image">
+              <img src="../assets/elements/regras12.webp" alt="news-image">
             </div>
             <div class="box-down">
               <h3>Linha de bola morta</h3>

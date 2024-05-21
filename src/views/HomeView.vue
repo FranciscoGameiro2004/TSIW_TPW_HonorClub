@@ -2,7 +2,7 @@
   <div class="navbar">
   <router-link to="/home">
     <div class="logo">
-      <img src="../assets/small-elements/logo.png" alt="Logo" />
+      <img src="../assets/small-elements/logo.webp" alt="Logo" />
     </div>
   </router-link>
 
@@ -14,13 +14,13 @@
     </div>
 
     <div class="nav-right" @click="logout">
-      <img src="../assets/small-elements/avatar.png" alt="Image"/>
+      <img src="../assets/small-elements/avatar.webp" alt="Image"/>
       <p class="loggedUser">Olá, {{ loggedUser }}!</p>
     </div>
   </div>
 
   <div class="carrossel">
-      <img src="../assets/elements/home-image.png" alt="Carrossel Image">
+      <img src="../assets/elements/home-image.webp" alt="Carrossel Image">
       <h2>Direito conquista 12.º título de campeão nacional</h2>
       <p>O Direito conquistou este sábado o 12.º título de campeão português de râguebi do seu historial,<br> ao vencer o Cascais por 31-23, na final da Divisão de Honra do campeonato português, disputada no Jamor.</p>
     </div>
@@ -36,7 +36,7 @@
           <hr>
           <div class="team-info">
             <div class="team-a">
-              <img src="../assets/small-elements/benfica.png" alt="Benfica Image">
+              <img src="../assets/small-elements/benfica.webp" alt="Benfica Image">
               <h4>Benfica</h4>
             </div>
             <div class="game-details">
@@ -46,7 +46,7 @@
               <h5>10-12-2023 às 14:00</h5>
             </div>
             <div class="team-b">
-              <img src="../assets/small-elements/agronomia.png" alt="Agronomia Image">
+              <img src="../assets/small-elements/agronomia.webp" alt="Agronomia Image">
               <h4>Agronomia</h4>
             </div>
           </div>
@@ -57,7 +57,7 @@
           <hr>
           <div class="team-info">
             <div class="team-a">
-              <img src="../assets/small-elements/CDUP.png" alt="CDUP Image">
+              <img src="../assets/small-elements/CDUP.webp" alt="CDUP Image">
               <h4>CDUP</h4>
             </div>
             <div class="game-details">
@@ -67,7 +67,7 @@
               <h5>09-12-2023 às 16:00</h5>
             </div>
             <div class="team-b">
-              <img src="../assets/small-elements/CDUL.png" alt="CDUL Image">
+              <img src="../assets/small-elements/CDUL.webp" alt="CDUL Image">
               <h4>CDUL</h4>
             </div>
           </div>
@@ -79,7 +79,7 @@
           <hr>
           <div class="team-info">
             <div class="team-a">
-              <img src="../assets/small-elements/belenenses.png" alt="Belenenses Image">
+              <img src="../assets/small-elements/belenenses.webp" alt="Belenenses Image">
               <h4>Os Belenenses</h4>
             </div>
             <div class="game-details">
@@ -89,7 +89,7 @@
               <h5>09-12-2023 às 14:00</h5>
             </div>
             <div class="team-b">
-              <img src="../assets/small-elements/direito.png" alt="Direito Image">
+              <img src="../assets/small-elements/direito.webp" alt="Direito Image">
               <h4>Direito</h4>
             </div>
           </div>
@@ -105,7 +105,7 @@
         <!-- Box 1 -->
         <div class="news-box">
           <div class="box-up">
-            <img src="../assets/elements/news-box1.png" alt="News Image 1">
+            <img src="../assets/elements/news-box1.webp" alt="News Image 1">
           </div>
           <div class="box-down">
             <h4>Caldas Rugby Clube perde com o Técnico</h4>
@@ -116,7 +116,7 @@
         <!-- Box 2 -->
         <div class="news-box">
           <div class="box-up">
-            <img src="../assets/elements/news-box2.png" alt="News Image 1">
+            <img src="../assets/elements/news-box2.webp" alt="News Image 1">
           </div>
           <div class="box-down">
             <h4>Caldas Rugby Clube perde com o Técnico</h4>
@@ -127,7 +127,7 @@
         <!-- Box 3 -->
         <div class="news-box">
           <div class="box-up">
-            <img src="../assets/elements/news-box3.png" alt="News Image 1">
+            <img src="../assets/elements/news-box3.webp" alt="News Image 1">
           </div>
           <div class="box-down">
             <h4>Benfica perdeu frente ao Belenenses</h4>
@@ -138,7 +138,7 @@
         <!-- Box 4 -->
         <div class="news-box">
           <div class="box-up">
-            <img src="../assets/elements/news-box4.png" alt="News Image 1">
+            <img src="../assets/elements/news-box4.webp" alt="News Image 1">
           </div>
           <div class="box-down">
             <h4>Rugby Club da Lousã comemora 50 anos </h4>

@@ -14,7 +14,7 @@ export default {
                 home: {
                     id: 255,
                     name: "Cascais",
-                    logo: "https://media-4.api-sports.io/rugby/teams/255.png",
+                    logo: "https://media-4.api-sports.io/rugby/teams/255.webp",
                     lineups:{
                         starting:[
                             {
@@ -37,7 +37,7 @@ export default {
                 away: {
                     id: 256,
                     name: "Direito",
-                    logo: "https://media-4.api-sports.io/rugby/teams/256.png",
+                    logo: "https://media-4.api-sports.io/rugby/teams/256.webp",
                     lineups:{
                         starting:[
                             {
@@ -152,7 +152,7 @@ export default {
                 home: {
                     id: 255,
                     name: "Cascais",
-                    logo: "https://media-4.api-sports.io/rugby/teams/255.png",
+                    logo: "https://media-4.api-sports.io/rugby/teams/255.webp",
                     lineups:{
                         starting:[
                             {
@@ -175,7 +175,7 @@ export default {
                 away: {
                     id: 256,
                     name: "Direito",
-                    logo: "https://media-4.api-sports.io/rugby/teams/256.png",
+                    logo: "https://media-4.api-sports.io/rugby/teams/256.webp",
                     lineups:{
                         starting:[
                             {

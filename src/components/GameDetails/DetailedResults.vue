@@ -3,14 +3,14 @@
     <h3>{{gameState}}</h3>
     <div v-if="showPontuation">
       <h2>{{ currentGame.scores.home }} - {{ currentGame.scores.away }}</h2>
-      <h4 v-if="showFirstPoints">{{ currentGame.periods.first.home }} - {{ currentGame.periods.first.away }}</h4>
-      <h4 v-if="showSecondPoints">{{ currentGame.periods.second.home }} - {{ currentGame.periods.second.away }}</h4>
+      <h4 v-show="showFirstPoints">{{ currentGame.periods.first.home }} - {{ currentGame.periods.first.away }}</h4>
+      <h4 v-show="showSecondPoints">{{ currentGame.periods.second.home }} - {{ currentGame.periods.second.away }}</h4>
     </div>
     <div v-else>
       <h2>-</h2>
     </div>
     <h5>{{date}} às {{hour}}</h5>
-    <h3 v-if="minuteTime<80">{{ minuteTime }}'</h3>
+    <h3 v-show="minuteTime<80">{{ minuteTime }}'</h3>
   </div>
 </template>
 

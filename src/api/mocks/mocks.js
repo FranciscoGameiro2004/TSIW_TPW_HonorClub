@@ -14,7 +14,7 @@ export default{
         home: {
           id:1,
           name: "Portugal",
-          logo: "src/assets/flags/portugal.webp",
+          logo: "assets/flags/portugal.webp",
           lineups:{
             starting:[ {
               id:1,
@@ -125,7 +125,7 @@ export default{
         away: {
           id:2,
           name: "Alemanha",
-          logo: "src/assets/flags/germany.webp",
+          logo: "assets/flags/germany.webp",
           lineups: {
             starting:[
               {
@@ -421,7 +421,7 @@ export default{
         home: {
           id:3,
           name: "Ucrânia",
-          logo: "src/assets/flags/ucrania.webp",
+          logo: "assets/flags/ucrania.webp",
           lineups:{
             starting:[ {
               id:1,
@@ -532,7 +532,7 @@ export default{
         away: {
           id:2,
           name: "Lithuania",
-          logo: "src/assets/flags/lithuania.webp",
+          logo: "assets/flags/lithuania.webp",
           lineups: {
             starting:[
               {
@@ -828,7 +828,7 @@ export default{
         home: {
           id:5,
           name: "Suiça",
-          logo: "src/assets/flags/suica.webp",
+          logo: "assets/flags/suica.webp",
           lineups:{
             starting:[
               {
@@ -940,7 +940,7 @@ export default{
         away: {
           id:6,
           name: "Suécia",
-          logo: "src/assets/flags/suecia.webp",
+          logo: "assets/flags/suecia.webp",
           lineups: {
             starting:[
               {
@@ -1201,7 +1201,7 @@ export default{
         home: {
           id:7,
           name: "Croacia",
-          logo: "src/assets/flags/croacia.webp",
+          logo: "assets/flags/croacia.webp",
           lineups:{
             starting:[
               {
@@ -1313,7 +1313,7 @@ export default{
         away: {
           id:6,
           name: "Suécia",
-          logo: "src/assets/flags/suecia.webp",
+          logo: "assets/flags/suecia.webp",
           lineups: {
             starting:[
               {
